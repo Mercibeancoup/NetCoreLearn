@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ESOkatf6hAHImi4G+5UiNgZ9zwapzs8Jj1fUJ/a3v4BhE4fQWJ8NQOSZfTYm8tztaJS2Wu2AIqwvL/00eV8C/g==",
+  "success": true,
+  "projectFilePath": "F:\\repos\\NetCoreLearn\\NetCoreLearn\\NetCoreLearn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zengyu\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.6\\microsoft.aspnetcore.jsonpatch.3.1.6.nupkg.sha512",
+    "C:\\Users\\zengyu\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.6\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.6.nupkg.sha512",
+    "C:\\Users\\zengyu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\zengyu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\zengyu\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
